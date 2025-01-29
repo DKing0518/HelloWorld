@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="my_intro">Hello World! My name is D\'Miya and I am looking forward to learning more in this course.</string>
+    <string name="button_text">Say Hello!</string>
+</resources>
