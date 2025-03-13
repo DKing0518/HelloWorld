@@ -10,16 +10,16 @@ Time spent: 1 hour spent in total
 
 The following **required** functionality is completed:
 
-* [ ] Image and introductory message displayed on screen
-* [ ] Button displayed on screen
-* [ ] Toast with message appears when button is pressed 
+* [x] Image and introductory message displayed on screen
+* [x] Button displayed on screen
+* [x] Toast with message appears when button is pressed 
 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='[https://imgur.com/hHI7j3h]' title='Hello World' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/0IxjyeX.gif' title='Hello World' width='' alt='Video Walkthrough' />
 
 
 GIF created with ...  
